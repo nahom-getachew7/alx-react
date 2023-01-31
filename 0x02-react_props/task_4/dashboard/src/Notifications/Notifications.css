@@ -1,0 +1,12 @@
+.Notifications {
+    border: thin dotted #e0344a;
+    padding: 16px;
+}
+
+ul li[data-priority='urgent'] {
+    color: red;
+}
+
+ul li[data-priority='default'] {
+    color: blue;
+}

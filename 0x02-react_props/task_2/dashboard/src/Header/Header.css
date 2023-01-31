@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    color: #e0344a;
+    align-items: center;
+    border-bottom: thick solid #e0344a;
+}
+  
+.header img {
+    width: 144px;
+}
+  
+.header h1 {
+    margin: 0;
+}
